@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Webdiensten>
+    <Webdienst>
+        <ShortcutName>Shortcut1</ShortcutName>
+        <ShortcutUrl>https://www.google.com.com/</ShortcutUrl>
+        <ShortcutStartIn></ShortcutStartIn>
+        <ShortcutIcon>NONE</ShortcutIcon>
+    </Webdienst>
+    <Webdienst>
+        <ShortcutName>Shortcut2</ShortcutName>
+        <ShortcutUrl>https://www.bing.com</ShortcutUrl>
+        <ShortcutStartIn></ShortcutStartIn>
+        <ShortcutIcon>NONE</ShortcutIcon>
+    </Webdienst>
+    <Webdienst>
+        <ShortcutName>UNC Shortcut</ShortcutName>
+        <ShortcutUrl>\\server\path\</ShortcutUrl>
+        <ShortcutStartIn>\\server\path\</ShortcutStartIn>
+        <ShortcutIcon>UNC</ShortcutIcon>
+    </Webdienst>
+</Webdiensten>
+</root>
